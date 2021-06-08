@@ -1,0 +1,4 @@
+Möglichkeiten für das Trennzeichen:
+Separator=comma
+Separator=tab
+Separator=semicolon

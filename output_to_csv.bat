@@ -1,0 +1,2 @@
+wscript "E:\output_to_csv\output_to_csv.vbs" "E:\output_to_csv\output_to_csv.ini" "E:\output_to_csv\data\temp.csv"
+wscript "E:\output_to_csv\break_csv.vbs" "E:\output_to_csv\output_to_csv.ini" "E:\output_to_csv\data\temp.csv"
